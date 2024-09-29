@@ -1,3 +1,19 @@
 theme: jekyll-theme-cayman
 title: Mohammad Safayet Khan
-description: Contents Loading ...
+description: "Welcome to my personal website!"
+
+# Navigation menu (Tabs)
+navbar:
+  - title: "About"
+    url: "#about"
+  - title: "Education"
+    url: "#education"
+  - title: "Research Experience"
+    url: "#research-experience"
+  - title: "Honors and Awards"
+    url: "#honors-and-awards"
+  - title: "Technical Projects"
+    url: "#technical-projects"
+  - title: "Contact"
+    url: "#contact"
+
