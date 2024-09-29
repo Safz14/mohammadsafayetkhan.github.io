@@ -2,8 +2,18 @@
 layout: default
 title: Home
 ---
-
 # Mohammad Safayet Khan
+
+<nav>
+  <ul>
+    <li><a href="#about">About</a></li>
+    <li><a href="#education">Education</a></li>
+    <li><a href="#research-experience">Research Experience</a></li>
+    <li><a href="#honors-and-awards">Honors and Awards</a></li>
+    <li><a href="#technical-projects">Technical Projects</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
 
 ## <a id="about"></a>About
 Write something about yourself here.
